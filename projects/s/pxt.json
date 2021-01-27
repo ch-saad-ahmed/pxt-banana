@@ -1,0 +1,16 @@
+{
+    "name": "s",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "test": "github:ch-saad-ahmed/pxt-banana#578b40e1a798390d390946171e223e83dc0432d2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj"
+}
